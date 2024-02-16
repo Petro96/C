@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1519751535 source:c:\users\zelko\desktop\zadania_prog2\zadanie2_golf2\zadanie2\main.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+

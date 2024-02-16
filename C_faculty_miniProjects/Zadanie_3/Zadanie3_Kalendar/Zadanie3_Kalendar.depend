@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519894024 source:c:\users\zelko\desktop\zadania_prog2\zadanie3\zadanie3_kalendar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+

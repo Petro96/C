@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1519228895 source:c:\users\zelko\desktop\zadanie1_prog2\zadanie_bezec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1519232495 source:c:\users\zelko\desktop\zadania_prog2\zadanie_bezec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
